@@ -25,3 +25,5 @@
 - 1 post via Swisscom Trust Services communication channel
 
 - 1 product video published on homepage and YouTube
+  
+  https://docufi3d.com/intro_video.mp4
