@@ -8,6 +8,10 @@ Goal: digitize rental processes with Docufi3d, Swisscom Trust Services (Swisscom
 
 ## Output 8: Public confirmation of the case study
 
-Blog post, LinkedIn post, or Letter of Intent (LoI) made available
+Letter of Intent (LoI) made available
 
+X post
 https://x.com/docufi3d/status/1939991600421036374?s=46&t=6M2_foUHKbggLeIJvlk5XQ
+
+LinkedIn post
+https://www.linkedin.com/feed/update/urn:li:activity:7345382867834748928
