@@ -6,6 +6,8 @@ Real estate partner managing ~5,000 documents/year
 
 Goal: digitize rental processes with Docufi3d, Swisscom Trust Services (Swisscom), and Cardano
 
+https://github.com/Docufi3d/Fund-13/blob/main/M1/Partnership%20Announcement%20Hausakte%20Fund%2013.pdf
+
 ## Output 8: Public confirmation of the case study
 
 Letter of Intent (LoI) made available
