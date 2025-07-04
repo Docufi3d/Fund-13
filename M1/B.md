@@ -4,8 +4,8 @@
 
 - 1 LinkedIn article on the project
 
-  https://www.linkedin.com/posts/ ?
-
+  https://www.linkedin.com/posts/docufi3d_docufi3d-activity-7346792957003374592-ZJFO
+  
 - 1 LinkedIn article on the product
 
   https://www.linkedin.com/posts/docufi3d_digitalidentity-esignature-web3-activity-7345731724837830656-6B6H
@@ -16,11 +16,11 @@
 
 - 1 X post on the project
 
-  https://x.com/docufi3d/status/ ?
+  https://x.com/docufi3d/status/1941029731350040856
 
 - 1 X post on the product
 
-  https://x.com/docufi3d/status/1940344588184535474?s=46&t=6M2_foUHKbggLeIJvlk5XQ
+  https://x.com/docufi3d/status/1940344588184535474
 
 - 1 post via Swisscom Trust Services communication channel
 
