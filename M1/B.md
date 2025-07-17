@@ -23,6 +23,8 @@
   https://x.com/docufi3d/status/1940344588184535474
 
 - 1 post via Swisscom Trust Services communication channel
+  
+  https://www.linkedin.com/posts/swisscom-trust-services_digitalidentity-blockchaincompliance-qes-activity-7350803244735995904-L4m2
 
 - 1 product video published on homepage and YouTube
   
