@@ -20,6 +20,8 @@ Real estate partner managing ~5,000 documents/year
   https://github.com/Docufi3d/Fund-13/blob/main/M1/registerdocument-2025-07-24-18-22-45.pdf
   
   https://github.com/Docufi3d/Fund-13/blob/main/M1/registerdocument-2025-07-24-18-23-42.pdf
+  
+  https://www.linkedin.com/posts/docufi3d_%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B0%F0%9D%98%82%F0%9D%97%B3%F0%9D%97%B6%F0%9D%9F%AF%F0%9D%97%B1-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%98%82%F0%9D%98%80%F0%9D%97%AE%F0%9D%97%B8%F0%9D%98%81%F0%9D%97%B2%F0%9D%9F%AE%F0%9D%9F%B0-activity-7354192546564034562-E30P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPCYS4BvsYdM5Xc8GyFOKLaUeGSGwI7fCE
 
 - X post
 
