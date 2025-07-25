@@ -14,6 +14,12 @@ Real estate partner managing ~5,000 documents/year
 - Letter of Intent (LoI) made available
 
   https://github.com/Docufi3d/Fund-13/blob/main/M1/Partnership%20Announcement%20Hausakte%20Fund%2013.pdf
+  
+  https://github.com/Docufi3d/Fund-13/blob/main/M1/Addendum%20to%20Partnership%20Agreement.pdf
+  
+  https://github.com/Docufi3d/Fund-13/blob/main/M1/registerdocument-2025-07-24-18-22-45.pdf
+  
+  https://github.com/Docufi3d/Fund-13/blob/main/M1/registerdocument-2025-07-24-18-23-42.pdf
 
 - X post
 
