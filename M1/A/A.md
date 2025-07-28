@@ -75,7 +75,7 @@
   
   * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
  
-  **Output 3: c**
+  **Output 3: C**
 
   * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
   
@@ -87,9 +87,11 @@
 
   https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/pay-per-use-model
 
-  https://docufi3d.com/videos/Dennis%20-%20Payment.mp4"
+  **Output 4: A,B,C,D,E,F**
+  
+  * *Video* * https://docufi3d.com/videos/Dennis%20-%20Payment.mp4
  
-  https://docufi3d.com/videos/Dennis%20-%20Payment%20Success.mp4" 
+  * *Video* * https://docufi3d.com/videos/Dennis%20-%20Payment%20Success.mp4
 
 ## Output 5: Free trial access to the Milestone Reviewers for independent review
 
