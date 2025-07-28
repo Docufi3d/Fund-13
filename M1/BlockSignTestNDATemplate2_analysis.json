@@ -1,0 +1,64 @@
+{
+    "schema_version": "AILF v1.0",
+    "document_title": "Non-Disclosure Agreement",
+    "document_type": "Contract",
+    "legal_entity": "Partner and Company",
+    "flags_by_paragraph": [
+        {
+            "paragraph_id": 1,
+            "clause_name": "Definition of Parties",
+            "clause_number": "n/A",
+            "text_excerpt": "This confidentiality agreement (the \"Agreement\") is entered into between (\"Partner\") and, (the\"Company\"). Partner and the Company shall be referred to individually as the \"Party\" andcollectively as the \"Parties\".",
+            "green_flags": ["Standard NDA introductory language"],
+            "yellow_flags": [],
+            "red_flags": []
+        },
+        {
+            "paragraph_id": 2,
+            "clause_name": "Definition of Disclosing and Receiving Party",
+            "clause_number": "n/A",
+            "text_excerpt": "\"Disclosing Party\" means any Party when, within the terms of this Agreement, it is the onesending or disclosing the Confidential Information of the other Party.",
+            "green_flags": ["Clearly defined roles"],
+            "yellow_flags": [],
+            "red_flags": []
+        },
+        {
+            "paragraph_id": 3,
+            "clause_name": "Violation penalty defined",
+            "clause_number": "IV",
+            "text_excerpt": "Breach of this agreement will be punished with a penalty of one million Euro.",
+            "green_flags": ["Clearly defined penalty for breach"],
+            "yellow_flags": [],
+            "red_flags": []
+        },
+        {
+            "paragraph_id": 4,
+            "clause_name": "Scope of Confidential Information",
+            "clause_number": "1",
+            "text_excerpt": "Confidential Information shall be deemed to be, by way of example and without limitation, anyinformation of a technical, financial, commercial or any other nature, which may be disclosedorally, in writing or by any other means or medium",
+            "green_flags": ["Extensive protection"],
+            "yellow_flags": [],
+            "red_flags": ["Potential for subjective interpretation"]
+        },
+        {
+            "paragraph_id": 5,
+            "clause_name": "Non-competition",
+            "clause_number": "7",
+            "text_excerpt": "During the term of this Agreement (or the contract, if any, subsequently entered into by theParties for the development of their collaboration) and until twenty-four (24) months after itstermination, the Receiving Party shall not, under any circumstances, design, develop, market orotherwise exploit (for itself or for third parties) products or services that have identical or similarcharacteristics or functionalities to the products and services offered by the other Party",
+            "green_flags": ["Protects against direct competition"],
+            "yellow_flags": [],
+            "red_flags": ["Restricts future business opportunities"]
+        },
+        {
+            "paragraph_id": 6,
+            "clause_name": "Governing law and jurisdiction",
+            "clause_number": "13",
+            "text_excerpt": "This Agreement shall be governed by Irish law. The Parties agree to submit any dispute related to this Agreement to the Courts and Tribunals. of the city of Düsseldorf.",
+            "green_flags": ["Clarifies governing law and jurisdiction"],
+            "yellow_flags": [],
+            "red_flags": ["Potential issues if parties operate in different jurisdictions"]
+        }
+    ],
+    "overall_summary": "This Non-Disclosure Agreement between the Partner and the Company covers the definition of parties, identification of Disclosing/Receiving party, violation penalties, scope of confidential information, non-competition clause, and governing law/jurisdiction. The agreement offers broad protection with potential for legal complications due to its comprehensive nondisclosure and noncompete terms.",
+    "recommendation": "Recommend further legal consultation to understand potential impact of extensive noncompete clause and broad interpretation of confidential information. Parties should also understand implications of jurisdiction clause."
+}
