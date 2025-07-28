@@ -1,0 +1,263 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+This confidentiality agreement (the "Agreement") is entered into between ("Partner") and, (the
+"Company"). Partner and the Company shall be referred to individually as the "Party" and
+collectively as the "Parties".
+For the purposes of this Agreement, the following definitions shall apply:
+−
+
+"Disclosing Party" means any Party when, within the terms of this Agreement, it is the one
+sending or disclosing the Confidential Information of the other Party.
+
+−
+
+"Receiving Party" means any Party where, within the terms of this Agreement, it is the Party
+receiving Confidential Information to the other Party.
+
+The Parties declare:
+I.
+
+That they wish to enter into discussions to assess possible ways of collaboration.
+
+II. That, in the course of their discussions, the Receiving Party shall have access to certain sensitive
+and confidential materials and information owned by the Disclosing Party (the "Confidential
+Information").
+III. In view of the foregoing, the Parties have decided to enter into this confidentiality agreement (the
+"Agreement"), which sets forth the basic terms and procedures to be followed by the Receiving
+Party in handling the Confidential Information of the Disclosing Party.
+The Parties agree that this Agreement shall be governed by the law applicable for this purpose and,
+in particular, by the following provisions:
+1.
+
+Scope of Confidential Information
+
+1.1.Confidential Information shall be deemed to be, by way of example and without limitation, any
+information of a technical, financial, commercial or any other nature, which may be disclosed
+orally, in writing or by any other means or medium, including development and implementation
+procedures, software, source code, object code, algorithms, design tools, databases, know-how,
+business organisation, business plans, reports, studies, financial information, documentation,
+inventions, technologies, prices, sales and, in general, sales and marketing information, object
+code, algorithms, design tools, databases, know-how, business organisation, business plans,
+reports, studies, financial information, documentation, inventions, technologies, pricing, sales
+and, in general, all information relating to the Disclosing Party's products and services, suppliers,
+partners, employees and clients.
+1.2.Confidential Information shall not be considered to be that which:
+a) at the time of disclosure it was in the public domain or became known to the Receiving Party
+because it was communicated to it by a third party without breach of any obligation of
+confidentiality;
+b) after being disclosed to the Receiving Party it becomes public domain without breach of any
+obligation of confidentiality; or
+c) is independently developed by the Receiving Party.
+2.
+
+Confidentiality commitments
+
+2.1.Both Parties undertake to maintain, for the time provided for in this Agreement, in the strictest
+confidence and not to disclose the Confidential Information to any third party (regardless of
+whether it is a natural or legal person), except with the prior express written authorisation of the
+Disclosing Party.
+2.2.The Receiving Party may only provide Confidential Information to those employees or
+collaborators who have a need to know it in order to ensure the proper conduct of business
+discussions.
+2.3.The Receiving Party shall ensure that each of its employees or collaborators with access to
+Confidential Information is informed of its confidential nature and submits, in writing, to
+confidentiality obligations at least as strict as those contained in this Agreement. The Receiving
+Party shall be liable for any breach of the confidentiality obligations imposed in this Agreement
+by its employees or collaborators or by any other third party who has had access to the
+Confidential Information from the Receiving Party.
+1
+
+2.4.If the Receiving Party becomes aware or suspects that any of the persons who have accessed
+the Confidential Information has disclosed the same or otherwise breached the terms of this
+Agreement, it shall notify the Disclosing Party immediately. Such communication shall in no
+event relieve the Receiving Party of the liability provided for in the preceding paragraph.
+2.5.The Receiving Party shall protect the Confidential Information with the utmost diligence and with
+at least the same standard of care as it would use to protect its own Confidential Information
+(provided that such standard is at least that reasonably required).
+2.6.The Receiving Party shall be responsible for the safekeeping of the Confidential Information to
+which it has access and shall take reasonable measures to prevent its possible loss, theft or
+misappropriation, as well as its unauthorised disclosure.
+2.7.The Receiving Party shall use the information provided only within the framework and for the
+purposes of the trade negotiations between the Parties.
+2.8.The Receiving Party shall not make copies, summaries or transcripts of the Confidential
+Information unless strictly necessary. Any copies, summaries or transcripts made shall also have
+the status of Confidential Information.
+3.
+
+Requests for information from the authorities
+
+3.1.Without prejudice to the preceding clause, the Receiving Party shall be authorised to disclose the
+Confidential Information of the Disclosing Party when required to do so by an administrative or
+judicial authority, provided that:
+a) The Receiving Party is legally obliged to comply with such a request.
+b) The Receiving Party promptly communicates it to the Disclosing Party (unless such
+communication is legally prohibited).
+c)
+4.
+
+The Receiving Party limits the disclosure to legally enforceable Confidential Information.
+
+Intellectual Property
+
+4.1.Both Parties understand and accept that intellectual and industrial property rights may exist in
+the Confidential Information and other assets of the Disclosing Party. By way of example, the
+Disclosing Party's logos, trademarks (including slogans) and names, its inventions (patents,
+utility models, industrial designs, etc.), its know-how, its technical documentation, all its websites
+and applications, all its technological solutions, etc. are protected by intellectual and industrial
+property rights, regardless of whether they are registered or not.
+4.2.The fact that the Disclosing Party provides the Receiving Party with access to Confidential
+Information does not confer on the Receiving Party any right or licence to the Confidential
+Information.
+4.3.Both Parties are aware that a breach of this clause could result not only in a violation of the
+terms of the Agreement, but also in a breach of intellectual property, industrial, unfair
+competition and other applicable regulations.
+5. Term
+5.1.
+This Agreement shall enter into force on the day of the last of the signatures at the end of the
+Agreement and shall remain in force until:
+a)
+
+The Parties formally terminate their discussions and decide not to proceed with formalisation
+(or for a period of ten (10) years, in case there is no formal declaration of termination of the
+discussions, but also no formal contract to develop their collaboration).
+
+b)
+
+The Parties shall enter into an agreement for the conduct of their collaboration containing
+confidentiality obligations that expressly supersede those contained in this Agreement.
+
+c)
+
+The Parties shall formally terminate the contract, if any, entered into for the development of
+their collaboration (if the condition set out in paragraph (b) above has not been fulfilled
+beforehand).
+
+5.2.
+Notwithstanding the foregoing, the obligations of confidentiality in respect of Confidential
+Information shared during the term of this Agreement (and any other obligations the nature of
+which so requires) shall remain in force and shall bind the Parties indefinitely.
+6. Return or destruction of Confidential Information
+
+2
+
+6.1.
+Upon termination of this Agreement (or the agreement subsequently entered into by the
+Parties in furtherance of the collaboration) or earlier, if expressly required by the Disclosing Party,
+the Receiving Party shall, at the request and at the option of the Disclosing Party, return or
+destroy all Confidential Information in its possession (including any copies, annotations,
+summaries, etc.).
+6.2.
+In the event that the Disclosing Party chooses to require the destruction of the Confidential
+Information, the Receiving Party shall provide, within one (1) month, a certificate attesting to
+such destruction.
+7. Non-competition
+7.1.
+During the term of this Agreement (or the contract, if any, subsequently entered into by the
+Parties for the development of their collaboration) and until twenty-four (24) months after its
+termination, the Receiving Party shall not, under any circumstances, design, develop, market or
+otherwise exploit (for itself or for third parties) products or services that have identical or similar
+characteristics or functionalities to the products and services offered by the other Party or that,
+for any other reason, may compete with the products and services of the other Party.
+8. Non-compliance
+8.1.
+The Parties acknowledge that a breach of the obligations set out in this Agreement may cause
+irreparable damage to the other Party, and that damages may be an inadequate and/or
+insufficient remedy.
+Accordingly, both Parties shall have the right, without the need to prove special damage, to seek
+injunctive relief for the cessation of the conduct that caused the breach, and specific performance
+of the obligation breached. The Party in breach may, in addition, exercise any other right or
+remedy available to it under the law or this Agreement.
+8.2.
+The rights and remedies provided in this Agreement are cumulative and do not exclude any
+right, power or remedy provided by law or any other agreement in addition to this Agreement.
+9. Signatories’ personal data
+9.1.
+The signatories to this document are informed that the personal data contained in this
+Agreement and those arising from the relationship between the Parties will be processed by the
+Parties for the purpose of managing business discussions between the Parties and monitoring
+compliance with the Agreement. The processing of the signatories' data is legitimized by the
+existence of a business relationship between the Parties. The data will not be transferred to third
+parties except in cases where there is a legal obligation. The data provided will be kept for as
+long as the relationship between the Parties is maintained or for the time necessary to comply
+with applicable legal obligations. The signatories may exercise, to the extent applicable, the
+rights of access, rectification or erasure, restriction of processing, objection and portability at the
+postal addresses listed in the header of this Agreement or at the following e-mail addresses:
+−
+
+Partner: legal@Partner.com
+
+−
+
+Company: legal@blocksign.io
+
+9.2.
+In addition, data subjects may file a complaint with the Irish Data Protection Authority or
+the competent supervisory authority.
+10. Future events
+10.1.
+
+For the avoidance of doubt, the Parties declare that:
+
+a) This Agreement does not obligate either Party to provide the other Party with access to
+Confidential Information of any kind.
+b) The Parties reserve the right, in their sole and absolute discretion, at any time and without
+cause, to terminate the discussions and negotiations. In any event, the Parties shall always
+act in good faith and, should they wish to terminate their discussions, they shall notify the
+other Party in writing.
+c) This Agreement is an exclusive obligation on the Parties.
+11. Notifications
+11.1.
+Notifications shall be deemed to have been validly made provided that they are sent to
+one of the following addresses (with acknowledgement of receipt):
+
+3
+
+Partner:
+
+Company:
+
+−
+
+−
+
+E-mail: legal@Partner.com
+
+E-mail: legal@blocksign.io
+
+12. Miscellaneous
+12.1.
+writing.
+
+The waiver of any right contained in this Agreement shall only be valid if made in
+
+12.2.
+
+Similarly, amendments to this Agreement shall be agreed in writing.
+
+12.3.
+The content of this Agreement shall complement the contract, if any, that the Parties
+may enter into for the development of their collaboration, unless otherwise expressly agreed by
+the Parties.
+12.4.
+Each provision of this Agreement is independent. The invalidity or unenforceability of
+any provision of this Agreement shall not affect the remaining provisions. The Parties shall
+negotiate in good faith to replace any provision declared invalid or unenforceable with a provision
+that is consistent, to the extent possible, with the intent reflected by the Parties in the provision
+declared invalid or unenforceable.
+13. Applicable law and competent jurisdiction
+13.1.
+
+This Agreement shall be governed by German law.
+
+13.2.
+The Parties agree to submit any dispute related to this Agreement to the Courts and
+Tribunals. of the city of Düsseldorf, expressly waiving any other jurisdiction to which they may be
+entitled.
+Partner
+
+Company
+
+__________________________________
+
+_______________________________
+
+4

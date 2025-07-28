@@ -1,73 +1,73 @@
 {
     "schema_version": "AILF v1.0",
     "document_title": "Non-Disclosure Agreement (NDA)",
-    "document_type": "Non-Disclosure Agreement",
-    "legal_entity": "Partner & Company",
+    "document_type": "Contract",
+    "legal_entity": "Partner vs. Company",
     "flags_by_paragraph": [
         {
             "paragraph_id": 1,
-            "clause_name": "Scope of Confidential Information",
-            "clause_number": "1",
-            "text_excerpt": "Confidential Information shall be deemed to be, by way of example and without limitation, any information of a technical, financial, commercial or any other nature",
-            "green_flags": ["Clear definition of confidential information"],
+            "clause_name": "Parties",
+            "clause_number": "Introduction",
+            "text_excerpt": "This confidentiality agreement (the 'Agreement') is entered into between ('Partner') and, (the 'Company').",
+            "green_flags": ["Standard introductory clause setting out parties to the agreement"],
             "yellow_flags": [],
             "red_flags": []
         },
         {
             "paragraph_id": 2,
-            "clause_name": "Confidentiality commitments",
-            "clause_number": "2",
-            "text_excerpt": "Both Parties undertake to maintain, for the time provided for in this Agreement, in the strictest confidence and not to disclose the Confidential Information",
-            "green_flags": ["Strong commitment to confidentiality"],
+            "clause_name": "Scope of Confidential Information",
+            "clause_number": "1",
+            "text_excerpt": "Confidential Information shall be deemed to be, by way of example and without limitation, any information of a technical, financial, commercial or any other nature",
+            "green_flags": ["Detailed and comprehensive definition of confidential information"],
             "yellow_flags": [],
             "red_flags": []
         },
         {
             "paragraph_id": 3,
-            "clause_name": "Intellectual Property",
-            "clause_number": "4",
-            "text_excerpt": "Both Parties understand and accept that intellectual and industrial property rights may exist in the Confidential Information",
-            "green_flags": ["Recognition of intellectual property rights"],
+            "clause_name": "Confidentiality commitments",
+            "clause_number": "2",
+            "text_excerpt": "Both Parties undertake to maintain, for the time provided for in this Agreement, in the strictest confidence and not to disclose the Confidential Information",
+            "green_flags": ["Comprehensive confidentiality obligations"],
             "yellow_flags": [],
             "red_flags": []
         },
         {
             "paragraph_id": 4,
-            "clause_name": "Non-competition",
-            "clause_number": "7",
-            "text_excerpt": "During the term of this Agreement and until twenty-four (24) months after its termination, the Receiving Party shall not design, develop, market or otherwise exploit (for itself or for third parties) products or services",
+            "clause_name": "Term",
+            "clause_number": "5",
+            "text_excerpt": "This Agreement shall enter into force on the day of the last of the signatures at the end of the Agreement and shall remain in force until...",
             "green_flags": [],
-            "yellow_flags": ["Restrictive non-competition clause"],
+            "yellow_flags": ["Lengthy duration of confidentiality obligations, could be restrictive"],
             "red_flags": []
         },
         {
             "paragraph_id": 5,
-            "clause_name": "Non-compliance",
-            "clause_number": "8",
-            "text_excerpt": "The Parties acknowledge that a breach of the obligations set out in this Agreement may cause irreparable damage to the other Party, and that damages may be an inadequate and/or insufficient remedy",
+            "clause_name": "Non-competition",
+            "clause_number": "7",
+            "text_excerpt": "During the term of this Agreement... the Receiving Party shall not, under any circumstances, design, develop, market or...",
             "green_flags": [],
             "yellow_flags": [],
-            "red_flags": ["Potential for severe penalties upon breach"]
+            "red_flags": ["Very lengthy non-compete clause, could be restrictive and unenforceable"]
         },
         {
             "paragraph_id": 6,
-            "clause_name": "Future events",
-            "clause_number": "10",
-            "text_excerpt": "The Parties reserve the right, in their sole and absolute discretion, at any time and without cause, to terminate the discussions and negotiations",
+            "clause_name": "Non-compliance",
+            "clause_number": "8",
+            "text_excerpt": "The Parties acknowledge that a breach of the obligations set out in this Agreement may cause irreparable damage to the other Party...",
             "green_flags": [],
-            "yellow_flags": ["Unilateral termination rights"],
+            "yellow_flags": ["Unclear on the quantification of 'irreparable damage'"],
             "red_flags": []
         },
         {
             "paragraph_id": 7,
             "clause_name": "Applicable law and competent jurisdiction",
             "clause_number": "13",
-            "text_excerpt": "This Agreement shall be governed by Irish law. The Parties agree to submit any dispute related to this Agreement to the Courts and Tribunals of the city of Düsseldorf",
-            "green_flags": ["Clear jurisdiction and governing law"],
+            "text_excerpt": "This Agreement shall be governed by German law...",
+            "green_flags": [],
             "yellow_flags": [],
-            "red_flags": []
+            "red_flags": ["Jurisdiction clause could potentially disadvantage one party, depending on their geographical location"]
         }
     ],
-    "overall_summary": "The Non-Disclosure Agreement between Partner and Company includes clear definitions, strong commitment to confidentiality, and recognition of intellectual property rights. Nonetheless, it includes a potentially restrictive non-competition clause, severe penalties for breach, and unilateral termination rights.",
-    "recommendation": "Proceed with caution due to potential restrictive clauses. Consider seeking legal counsel for further evaluation."
+    "overall_summary": "This Non-Disclosure Agreement contains standard clauses such as the definition of Confidential Information and the confidentiality obligations of the Parties. However, it also includes a potentially restrictive non-compete clause and a term clause with lengthy confidentiality obligations. The jurisdiction clause could potentially disadvantage one party.",
+    "recommendation": "Consider amendments to the term, non-competition and jurisdiction clauses to be more favourable for the client. Assess the client's risk tolerance level for the highlighted yellow and red flags before proceeding"
 }
