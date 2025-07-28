@@ -2,6 +2,7 @@
 
 ## Output 1: Technical Documentation:
 
+
   **Output 1** 
   
   Technical Documentation https://blocksign-io.gitbook.io/blocksign.io/technical-documentation
@@ -85,6 +86,10 @@
 ## Output 4: Launch a flexible and transparent pay-per-use model:
 
   https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/pay-per-use-model
+
+  <video controls src="https://docufi3d.com/videos/Dennis%20-%20Payment.mp4" title=" Dennis - Payment.mp4"></video>
+ 
+  <video controls src="https://docufi3d.com/videos/Dennis%20-%20Payment%20Success.mp4" title="Dennis - Payment Success.mp4"></video>
 
 ## Output 5: Free trial access to the Milestone Reviewers for independent review
 
