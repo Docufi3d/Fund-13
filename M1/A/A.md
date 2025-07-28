@@ -2,69 +2,85 @@
 
 ## Output 1: Technical Documentation:
 
-  Output 1 https://blocksign-io.gitbook.io/blocksign.io/technical-documentation
+  **Output 1** 
+  
+  Technical Documentation https://blocksign-io.gitbook.io/blocksign.io/technical-documentation
 
   Tech Stack https://blocksign-io.gitbook.io/blocksign.io/blocksign.io/tech-stack
-
+   
   Infrastructure https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/infrastructure-overview
 
   Core Process https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/core-process
 
   AI Workflow https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow
   
-  Output 1: A https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/infrastructure-overview
+  **Output 1: A** https://blocksign-io.gitbook.io/blocksign.io/
 
-  Output 1: B https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-driven-contract-analysis
+  **Output 1: B** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-driven-contract-analysis
   
-  Output 1: C https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/text-to-speech
+  **Output 1: C** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/text-to-speech
   
-  Output 1: D https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/pay-per-use-model
+  **Output 1: D** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/pay-per-use-model
   
-  Output 1: E GitBook https://blocksign-io.gitbook.io/blocksign.io
+  **Output 1: E** https://blocksign-io.gitbook.io/blocksign.io
   
-  Output 1: F https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/checklist
+  **Output 1: F** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/checklist
 
-  Output 1: G https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1iINpEhc1s4SRtbnF1w-ZNd_yymzSINrff-HWBnayWHO2uSF1dt5ObWteMmqg7GfMDi4DmYC4N
+  **Output 1: G** Please book a Meeting with dennis@blocksign.io 
+  
+  * *Calendar* * https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1iINpEhc1s4SRtbnF1w-ZNd_yymzSINrff-HWBnayWHO2uSF1dt5ObWteMmqg7GfMDi4DmYC4N
 
 ## Output 2: AI-driven Contract Analysis:
 
-  https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-driven-contract-analysis
-
-  Positive Sample 
+  **Output 2: A** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-driven-contract-analysis
   
-  Document https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.docx
+  **Output 2: B**
+  
+  Positive Sample
 
-  Converted PDF https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.pdf
+  * *Document* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.docx
 
-  Extracted Text https://github.com/Text Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
+  * *Converted PDF* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.pdf
 
-  Analysis https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_analysis.json
+  * *Extracted Text* * https://github.com/Text Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
+
+  * *Analysis* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_analysis.json
 
   Negative Sample
   
-  Document https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.docx
+  * *Document* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.docx
   
-  Converted PDF https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.pdf
+  * *Converted PDF* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.pdf
 
-  Extracted Text https://github.com/Text Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_text.txt
+  * *Extracted Text* * https://github.com/Text Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_text.txt
 
-  Analysis https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_analysis.json
+  * *Analysis* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_analysis.json
 
-  Screenshots
+  **Output 2: C**
 
-  https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_Analysis_1.png
+  * *Screenshots* * https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_Analysis_1.png
   
-  https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_Analysis_2.png
-
+  * *Screenshots* * https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_Analysis_2.png
+  
+ **Output 2: D**
+ 
 ## Output 3: Text-to-Speech (TTS):
 
-  https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/text-to-speech
+  **Output 3: A** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/text-to-speech
 
-  Extracted Text https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
+  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
 
-  MP3 https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
+  **Output 3: B** 
+  
+  * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
+ 
+  **Output 3: c**
 
-  Screenshot https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_TTS.png
+  * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
+  
+  * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_tts.mp3
+
+  * *Screenshot* * https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_TTS.png
   
 ## Output 4: Launch a flexible and transparent pay-per-use model:
 
