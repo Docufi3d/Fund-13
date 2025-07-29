@@ -14,6 +14,22 @@
   Core Process https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/core-process
 
   AI Workflow https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow
+
+  **Additional Videos**
+ 
+  https://docufi3d.com/videos/1.%20Dennis%20-%20Login.mp4
+ 
+  https://docufi3d.com/videos/2.%20Dennis%20-%20Upload.mp4
+
+  https://docufi3d.com/videos/3.%20Dennis%20-%20Invite.mp4
+
+  https://docufi3d.com/videos/4.%20Mike%20-%20Wait.mp4
+
+  https://docufi3d.com/videos/5.%20Mike%20-%20View.mp4
+
+  https://docufi3d.com/videos/6.%20Mike%20-%20Sign.mp4
+
+  https://docufi3d.com/videos/7.%20Dennis%20-%20Sign%20and%20Seal.mp4
   
   **Output 1: A** https://blocksign-io.gitbook.io/blocksign.io/
 
