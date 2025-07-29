@@ -4,15 +4,21 @@
 
 - 1 LinkedIn article on the project
 
-  https://www.linkedin.com/posts/docufi3d_docufi3d-activity-7346792957003374592-ZJFO
+   **Docufi3d & Hausakte24 pilot project**
   
+  https://www.linkedin.com/pulse/where-compliance-meets-convenience-docufi3d-hausakte24-pilot-pv4qe/?trackingId=vXvwaCSxSJi7IohMGEbAqw%3D%3D
+
 - 1 LinkedIn article on the product
 
-  https://www.linkedin.com/posts/docufi3d_digitalidentity-esignature-web3-activity-7345731724837830656-6B6H
+  **BlockSign.io - Advanced Electronic Signatures Achieves ISO/IEC 27001**
+  
+  https://www.linkedin.com/pulse/blocksignio-advanced-electronic-signatures-achieves-isoiec-by9we/
   
 - 1 LinkedIn article on digital signature
 
-  https://www.linkedin.com/posts/docufi3d_digital-signatures-more-than-just-a-digital-activity-7346062621051117569-vZJ
+  **The Future of Digital Signatures**
+  
+  https://www.linkedin.com/pulse/future-digital-signatures-secure-regulated-now-powered-blockchain-y3nge/
 
 - 1 X post on the project
 
