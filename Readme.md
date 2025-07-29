@@ -24,6 +24,10 @@ The project was proposed and funded in **Catalyst Fund 13** under the "Cardano P
 
 All contents in this repository are provided for transparency, community review, and future auditing. You can verify commit history, timestamps, and documentation to validate progress and delivery.
 
+**Documentation and Howto**
+
+https://blocksign-io.gitbook.io/blocksign.io
+
 ## 🔗 Live Project Access
 
 The platform is publicly accessible at:  
