@@ -34,4 +34,6 @@
 
 - 1 product video published on homepage and YouTube
   
-  https://docufi3d.com/intro_video.mp4
+  The video will be available shortly, We are currently solving an dispute with Youtube, the Logos are an **Spam Policy** violation and need to be reduces in size.
+
+  
