@@ -43,7 +43,7 @@
 
   * *Converted PDF* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.pdf
 
-  * *Extracted Text* * https://github.com/Text Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
+  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
 
   * *Analysis* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_analysis.json
 
@@ -53,7 +53,7 @@
   
   * *Converted PDF* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.pdf
 
-  * *Extracted Text* * https://github.com/Text Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_text.txt
+  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_text.txt
 
   * *Analysis* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_analysis.json
 
