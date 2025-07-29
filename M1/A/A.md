@@ -35,7 +35,7 @@
 
   **Output 2: A** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-driven-contract-analysis
   
-  **Output 2: B**
+  **Output 2: B** Samples
   
   Positive Sample
 
@@ -63,7 +63,8 @@
   
   * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_2.png
   
- **Output 2: D**
+ **Output 2: D** 
+  * *Report* * https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-effectiveness-report
  
 ## Output 3: Text-to-Speech (TTS):
 
