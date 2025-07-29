@@ -4,6 +4,8 @@
 
 
   **Output 1** 
+
+  **PDF Version** https://blocksign-io.gitbook.io/blocksign.io/~gitbook/pdf?limit=100
   
   Technical Documentation https://blocksign-io.gitbook.io/blocksign.io/technical-documentation
 
@@ -118,7 +120,7 @@
 
 The Company and Docufi3d.com is in transition to blocksign.io and some external applications like Google SSO and Microsoft Azure, Apple SSO and so on might be still in external review.
 
-## Additional Info abozt Cardano Transactions ##
+## Additional Info about Cardano Transactions ##
 A Sample Cardano Transaction https://cardanoscan.io/transaction/d54fd2f44a418f0857a7264fcfcff1b03516f45ec46bdcc9e0b354161708bc02?tab=metadata
 ```json
 1774
