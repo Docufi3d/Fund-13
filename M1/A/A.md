@@ -97,3 +97,24 @@
 ## Output 5: Free trial access to the Milestone Reviewers for independent review
 
   https://blocksign-io.gitbook.io/blocksign.io/docufi3d.com/quick-start/free-trial-access
+
+## Additional Info abozt Cardano Transactions ##
+A Sample Cardano Transaction https://cardanoscan.io/transaction/d54fd2f44a418f0857a7264fcfcff1b03516f45ec46bdcc9e0b354161708bc02?tab=metadata
+```json
+1774
+{
+   "version": "1.0",
+   "docufi3d.com": "1.01",
+   "edb9988ca39721a31eebbeb986169b47dca600cfa4f6cabf6af5fa9b75df78bc": {
+      "hash": [
+         "edb9988ca39721a31eebbeb986169b47dca600cfa4f6cabf6af5fa9b75df78bc"
+      ],
+      "vuid": [
+         "fbfcc01715ae5a08f8338ac11a87bf35d208e570893291bd68e5795f94aa34ba"
+      ],
+      "level": [
+         "AES"
+      ]
+   }
+}
+```
