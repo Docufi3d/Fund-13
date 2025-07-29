@@ -8,6 +8,9 @@ Real estate partner managing ~5,000 documents/year
 
   https://github.com/Docufi3d/Fund-13/blob/main/M1/Partnership%20AgreementHausakte24Docufi3dCardano.pdf
 
+  **C7)** Note: Declaration of Independence and Absence of Legal Relationship                               
+
+Dear reviewer, I, Patrick Rayermann, hereby expressly declare that there is no familial or other relationship in the legal sense between myself and Christian Rayermann. In particular, there is no relationship of kinship within the meaning of § 1589 of the German Civil Code (BGB), neither in a direct line nor in a collateral line. There is also no relationship by marriage or any other legally relevant familial connection.
 
 ## Output 8: Public confirmation of the case study
 
@@ -30,3 +33,4 @@ Real estate partner managing ~5,000 documents/year
 - LinkedIn post
 
   https://www.linkedin.com/feed/update/urn:li:activity:7345382867834748928
+
