@@ -39,29 +39,29 @@
   
   Positive Sample
 
-  * *Document* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.docx
+  * *Document* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1.docx
 
-  * *Converted PDF* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1.pdf
+  * *Converted PDF* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1.pdf
 
-  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
+  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1_text.txt
 
-  * *Analysis* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_analysis.json
+  * *Analysis* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1_analysis.json
 
   Negative Sample
   
-  * *Document* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.docx
+  * *Document* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate2.docx
   
-  * *Converted PDF* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2.pdf
+  * *Converted PDF* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate2.pdf
 
-  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_text.txt
+  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate2_text.txt
 
-  * *Analysis* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_analysis.json
+  * *Analysis* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate2_analysis.json
 
   **Output 2: C**
 
-  * *Screenshots* * https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_Analysis_1.png
+  * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_1.png
   
-  * *Screenshots* * https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_Analysis_2.png
+  * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_2.png
   
  **Output 2: D**
  
@@ -69,19 +69,19 @@
 
   **Output 3: A** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/text-to-speech
 
-  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_text.txt
+  * *Extracted Text* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1_text.txt
 
   **Output 3: B** 
   
-  * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
+  * *MP3 File* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1_tts.mp3
  
   **Output 3: C**
 
-  * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate1_tts.mp3
+  * *MP3 File* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate1_tts.mp3
   
-  * *MP3 File* * https://github.com/Docufi3d/Fund-13/M1/A/BlockSignTestNDATemplate2_tts.mp3
+  * *MP3 File* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/BlockSignTestNDATemplate2_tts.mp3
 
-  * *Screenshot* * https://github.com/Docufi3d/Fund-13/M1/A/Screenshot_TTS.png
+  * *Screenshot* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_TTS.png
   
 ## Output 4: Launch a flexible and transparent pay-per-use model:
 
