@@ -6,7 +6,7 @@ Real estate partner managing ~5,000 documents/year
 
 - Goal: digitize rental processes with Docufi3d, Swisscom Trust Services (Swisscom), and Cardano
 
-  https://github.com/Docufi3d/Fund-13/blob/main/M1/Partnership%20AgreementHausakte24Docufi3dCardano.pdf
+  [https://github.com/Docufi3d/Fund-13/blob/main/M1/Partnership%20AgreementHausakte24Docufi3dCardano.pdf](https://github.com/Docufi3d/Fund-13/blob/main/M1/C/Partnership%20AgreementHausakte24Docufi3dCardano.pdf)
 
   **C7)** Note: Declaration of Independence and Absence of Legal Relationship                               
 
