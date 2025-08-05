@@ -16,6 +16,10 @@ Dear reviewer, I, Patrick Rayermann, hereby expressly declare that there is no f
 
 - Letter of Intent (LoI) made available
 
+  https://github.com/Docufi3d/Fund-13/blob/main/M1/C/2508PARTNERSHIP%20AGREEMENT.pdf
+  
+  https://github.com/Docufi3d/Fund-13/blob/main/M1/C/Duesseldorf_HRB_59580_AD_05.08.2025.pdf
+
   [https://github.com/Docufi3d/Fund-13/blob/main/M1/Partnership%20Announcement%20Hausakte%20Fund%2013.pdf](https://github.com/Docufi3d/Fund-13/blob/main/M1/C/Partnership%20Announcement%20Hausakte%20Fund%2013.pdf)
   
   https://github.com/Docufi3d/Fund-13/blob/main/M1/C/Addendum%20to%20Partnership%20Agreement.pdf
