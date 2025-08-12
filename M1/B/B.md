@@ -34,8 +34,10 @@
 
 - 1 product video published on homepage and YouTube
   
-  https://docufi3d.com/videos/Demo.mp4  
+  Homepage https://docufi3d.com/videos/Demo.mp4  (link also via Landingpage https://docufi3d.com, just click the "Demo Video" Button)
 
-  The video will be available shortly on youtube, We are currently solving an dispute with Youtube, the Logos are an **Spam Policy** violation and need to be reduces in size.
+  Youtube https://youtu.be/xjBJQKvXpck
+
+  
 
   
