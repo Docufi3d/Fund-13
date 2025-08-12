@@ -35,13 +35,13 @@ Youtube https://youtu.be/xjBJQKvXpck
 
 ## C. Case Studies & Client Pilots - Output 7: ##
 
-Partnership Agreement between Docufi3d UG and the Project "Hausakte24" by the Rayermann Immobilien Managment GmbH
+Partnership Agreement between Docufi3d UG and the Project "Hausakte24" by the Rayermann Immobilien GmbH
 
 https://github.com/Docufi3d/Fund-13/blob/main/M1/C/2508PARTNERSHIP%20AGREEMENT.pdf
 
 https://github.com/Docufi3d/Fund-13/blob/main/M1/C/Addendum%20to%20Partnership%20Agreement.pdf
 
-Company Registration of Rayermann Immobilien Managment GmbH 
+Company Registration of Rayermann Immobilien GmbH 
 
 https://github.com/Docufi3d/Fund-13/blob/main/M1/C/registerdocument-2025-07-24-18-23-42.pdf
 
