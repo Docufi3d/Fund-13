@@ -32,7 +32,11 @@
   https://docufi3d.com/videos/6.%20Mike%20-%20Sign.mp4
 
   https://docufi3d.com/videos/7.%20Dennis%20-%20Sign%20and%20Seal.mp4
-  
+
+  **Cardano ADA Payment**
+
+  https://docufi3d.com/videos/ADA_Payment.mp4
+
   **Output 1: A** https://blocksign-io.gitbook.io/blocksign.io/
 
   **Output 1: B** https://blocksign-io.gitbook.io/blocksign.io/technical-documentation/ai-workflow/ai-driven-contract-analysis
