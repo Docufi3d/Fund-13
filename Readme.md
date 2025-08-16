@@ -26,7 +26,7 @@ All contents in this repository are provided for transparency, community review,
 
 **Documentation and Howto**
 
-[https://blocksign-io.gitbook.io/blocksign.io/docufi3d.com](https://blocksign-io.gitbook.io/blocksign.io/docufi3d.com)
+https://blocksign-io.gitbook.io/docufi3d/docufi3d.com
 
 ## 🔗 Live Project Access
 
