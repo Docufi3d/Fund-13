@@ -1,4 +1,4 @@
-# Catalyst Fund 13 – Docufi3d (BlockSign) – Proposal Output Submission
+# Catalyst Fund 13 – Docufi3d – Proposal Output Submission
 
 Welcome to the official submission repository for the **Catalyst Fund 13** proposal titled **"Bridging Web2 to Web3 with Swisscom: Onboarding SMEs to Cardano with Digital Signing"**.
 
@@ -6,7 +6,7 @@ This repository contains the **output deliverables**, **proof of work**, and sup
 
 ## ✅ Project Overview
 
-Docufi3d (now rebranded as **BlockSign.io**) is a platform for secure digital signatures and blockchain-based document authentication, with a focus on:
+Docufi3d is a platform for secure digital signatures and blockchain-based document authentication, with a focus on:
 
 The project was proposed and funded in **Catalyst Fund 13** under the "Cardano Partners: Enterprise R&D" category.
 
@@ -26,7 +26,7 @@ All contents in this repository are provided for transparency, community review,
 
 **Documentation and Howto**
 
-https://blocksign-io.gitbook.io/blocksign.io
+[https://blocksign-io.gitbook.io/blocksign.io/docufi3d.com](https://blocksign-io.gitbook.io/blocksign.io/docufi3d.com)
 
 ## 🔗 Live Project Access
 
@@ -38,7 +38,7 @@ The platform is publicly accessible at:
 We thank the Catalyst community and reviewers for supporting our vision of secure, user-friendly, and legally compliant digital signing with decentralized identity.
 
 For questions, collaborations, or audits, please contact us at:  
-📧 dennis@blocksign.io
+📧 dennis@ducufi3d.com
 
 ---
 
