@@ -31,7 +31,7 @@ The Video https://docufi3d.com/videos/Dennis%20-%20Payment.mp4 shows the Payment
 
 Homepage https://docufi3d.com/ (Demo Video Button)
  
-Youtube https://youtu.be/xjBJQKvXpck
+Youtube https://youtu.be/9f3VoOQtwj0 (Latest Version)
 
 ## C. Case Studies & Client Pilots - Output 7: ##
 
