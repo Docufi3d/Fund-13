@@ -18,4 +18,4 @@ https://github.com/Docufi3d/Fund-13/blob/main/M1/August%2015/ShareholderRayerman
 
 ## 2. PoA for Output 4: ##
 
-ADA PAyment https://docufi3d.com/videos/ADA_Payment.mp4
+ADA Payment https://docufi3d.com/videos/ADA_Payment.mp4
