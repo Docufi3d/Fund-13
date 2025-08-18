@@ -5,9 +5,9 @@
 
   **Output 1** 
 
-  **PDF Version** https://blocksign-io.gitbook.io/docufi3d/docufi3d.com/~gitbook/pdf?limit=100
+  **PDF Version** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/~gitbook/pdf?limit=100
   
-  Technical Documentation https://blocksign-io.gitbook.io/docufi3d/docufi3d.com/technical-documentation
+  Technical Documentation https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation
 
   Tech Stack https://docufi3d.gitbook.io/docufi3d/docufi3d.com/docufi3d.com/tech-stack
    
