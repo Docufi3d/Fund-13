@@ -21,3 +21,7 @@ https://github.com/Docufi3d/Fund-13/blob/main/M1/August%2011/Response.md
 # Response to Rejection August 15
 
 https://github.com/Docufi3d/Fund-13/blob/main/M1/August%2015/Response.md
+
+# Response to Rejection August 18
+
+https://github.com/Docufi3d/Fund-13/blob/main/M1/August%2018/Response.md
