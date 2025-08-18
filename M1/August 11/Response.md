@@ -23,6 +23,8 @@ The Video https://docufi3d.com/videos/Dennis%20-%20Payment.mp4 shows the Payment
 
 The Video https://docufi3d.com/videos/Dennis%20-%20Payment%20Success.mp4 shows the Payment Success View after the payment.
 
+The Video https://docufi3d.com/videos/ADA_Payment.mp4 shows the Cardano / ADA Payment
+
 ## A. Product Development  - Output 5: ## 
 
 The Video https://docufi3d.com/videos/Dennis%20-%20Payment.mp4 shows the Payment Process, right now docufi3d is free of charge for everyone including the Milestone Reviewers.
