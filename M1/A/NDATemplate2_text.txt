@@ -188,7 +188,7 @@ Partner: legal@Partner.com
 
 −
 
-Company: legal@blocksign.io
+Company: legal@docufi3d.com
 
 9.2.
 In addition, data subjects may file a complaint with the Irish Data Protection Authority or
@@ -222,7 +222,7 @@ Company:
 
 E-mail: legal@Partner.com
 
-E-mail: legal@blocksign.io
+E-mail: legal@docufi3d.com
 
 12. Miscellaneous
 12.1.
