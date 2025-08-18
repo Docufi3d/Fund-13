@@ -16,5 +16,6 @@ https://github.com/Docufi3d/Fund-13/blob/main/M1/August%2015/ShareholderAnnounce
 
 https://github.com/Docufi3d/Fund-13/blob/main/M1/August%2015/ShareholderRayermannImmobilienGmbH.tiff.pdf
 
+## 2. PoA for Output 4: ##
 
-
+ADA PAyment https://docufi3d.com/videos/ADA_Payment.mp4
