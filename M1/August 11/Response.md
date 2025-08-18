@@ -17,7 +17,7 @@ Video sgowing AI Text Speech and Analysis https://docufi3d.com/videos/AI%20Showc
 
 There is no toggle to show its an internal setting, if we enable paymert it will cost on a pay per use basis, otherwise its free to use for now like described here.
 
-https://blocksign-io.gitbook.io/docufi3d/docufi3d.com/quick-start/free-trial-access
+https:///docufi3d.gitbook.io/docufi3d/docufi3d.com/quick-start/free-trial-access
 
 The Video https://docufi3d.com/videos/Dennis%20-%20Payment.mp4 shows the Payment Process.
 
