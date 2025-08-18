@@ -26,7 +26,7 @@ All contents in this repository are provided for transparency, community review,
 
 **Documentation and Howto**
 
-https://blocksign-io.gitbook.io/docufi3d/docufi3d.com
+https://docufi3d.gitbook.io/docufi3d/docufi3d.com
 
 ## 🔗 Live Project Access
 
@@ -38,7 +38,7 @@ The platform is publicly accessible at:
 We thank the Catalyst community and reviewers for supporting our vision of secure, user-friendly, and legally compliant digital signing with decentralized identity.
 
 For questions, collaborations, or audits, please contact us at:  
-📧 dennis@ducufi3d.com
+📧 dennis@docufi3d.com
 
 ---
 
