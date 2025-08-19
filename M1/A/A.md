@@ -81,11 +81,17 @@
 
   **Output 2: C**
 
-  * Link to LIVE feature * https://docufi3d.com/view/2544c750-6f55-4bc8-b0e1-8e38e92a521f
-
-  * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_1.png
+  Positive
   
-  * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_2.png
+  * *Link to LIVE feature* * https://docufi3d.com/view/2544c750-6f55-4bc8-b0e1-8e38e92a521f
+
+  * *Screenshot* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_1.png
+
+  Negative
+
+   * *Link to LIVE feature* * https://docufi3d.com/view/216aa68d-490b-45af-a191-088f6871bb7d
+  
+   * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_2.png
   
  **Output 2: D** 
   * *Report* * https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow/ai-effectiveness-report
