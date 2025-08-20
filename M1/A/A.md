@@ -98,7 +98,7 @@
  
 ## Output 3: Text-to-Speech (TTS):
 
-  **Output 3: A**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/text-to-speech
+  **Output 3: A**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow/text-to-speech
 
   * *Extracted Text* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/NDATemplate1_text.txt
 
@@ -116,7 +116,7 @@
   
 ## Output 4: Launch a flexible and transparent pay-per-use model:
 
-   https://docufi3d.gitbook.io/docufi3dtechnical-documentation/pay-per-use-model
+   https://docufi3d.gitbook.io/docufi3d/technical-documentation/pay-per-use-model
 
   **Output 4: A,B,C,D,E,F**
   
