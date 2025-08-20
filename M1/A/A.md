@@ -39,15 +39,15 @@
 
   **Output 1: A**  https://docufi3d.gitbook.io/docufi3d
 
-  **Output 1: B**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/ai-driven-contract-analysis
+  **Output 1: B**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow/ai-driven-contract-analysis
   
-  **Output 1: C**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/text-to-speech
+  **Output 1: C**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow/text-to-speech
   
-  **Output 1: D**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/pay-per-use-model
+  **Output 1: D**  https://docufi3d.gitbook.io/docufi3/dtechnical-documentation/pay-per-use-model
   
   **Output 1: E** https://docufi3d.gitbook.io/docufi3d
   
-  **Output 1: F**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/checklist
+  **Output 1: F**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/checklist
 
   **Output 1: G** Please book a Meeting with dennis@docufi3d.com 
   
