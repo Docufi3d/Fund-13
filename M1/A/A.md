@@ -5,17 +5,17 @@
 
   **Output 1** 
 
-  **PDF Version** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/~gitbook/pdf?limit=100
+  **PDF Version**  https://docufi3d.gitbook.io/docufi3d~gitbook/pdf?limit=100
   
-  Technical Documentation https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation
+  Technical Documentation  https://docufi3d.gitbook.io/docufi3dtechnical-documentation
 
-  Tech Stack https://docufi3d.gitbook.io/docufi3d/docufi3d.com/docufi3d.com/tech-stack
+  Tech Stack  https://docufi3d.gitbook.io/docufi3ddocufi3d.com/tech-stack
    
-  Infrastructure https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/infrastructure-overview
+  Infrastructure  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/infrastructure-overview
 
-  Core Process https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/core-process
+  Core Process  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/core-process
 
-  AI Workflow https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow
+  AI Workflow  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow
 
   **Additional Videos**
  
@@ -37,17 +37,17 @@
 
   https://docufi3d.com/videos/ADA_Payment.mp4
 
-  **Output 1: A** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/
+  **Output 1: A**  https://docufi3d.gitbook.io/docufi3d
 
-  **Output 1: B** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow/ai-driven-contract-analysis
+  **Output 1: B**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/ai-driven-contract-analysis
   
-  **Output 1: C** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow/text-to-speech
+  **Output 1: C**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/text-to-speech
   
-  **Output 1: D** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/pay-per-use-model
+  **Output 1: D**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/pay-per-use-model
   
   **Output 1: E** https://docufi3d.gitbook.io/docufi3d
   
-  **Output 1: F** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/checklist
+  **Output 1: F**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/checklist
 
   **Output 1: G** Please book a Meeting with dennis@docufi3d.com 
   
@@ -55,7 +55,7 @@
 
 ## Output 2: AI-driven Contract Analysis:
 
-  **Output 2: A** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow/ai-driven-contract-analysis
+  **Output 2: A**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/ai-driven-contract-analysis
   
   **Output 2: B** Samples
   
@@ -94,11 +94,11 @@
    * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_2.png
   
  **Output 2: D** 
-  * *Report* * https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow/ai-effectiveness-report
+  * *Report* *  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/ai-effectiveness-report
  
 ## Output 3: Text-to-Speech (TTS):
 
-  **Output 3: A** https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/ai-workflow/text-to-speech
+  **Output 3: A**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/text-to-speech
 
   * *Extracted Text* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/NDATemplate1_text.txt
 
@@ -116,7 +116,7 @@
   
 ## Output 4: Launch a flexible and transparent pay-per-use model:
 
-  https://docufi3d.gitbook.io/docufi3d/docufi3d.com/technical-documentation/pay-per-use-model
+   https://docufi3d.gitbook.io/docufi3dtechnical-documentation/pay-per-use-model
 
   **Output 4: A,B,C,D,E,F**
   
@@ -128,7 +128,7 @@
 
 ## Output 5: Free trial access to the Milestone Reviewers for independent review
 
-  https://docufi3d.gitbook.io/docufi3d/docufi3d.com/docufi3d.com/quick-start/free-trial-access
+   https://docufi3d.gitbook.io/docufi3ddocufi3d.com/quick-start/free-trial-access
 
 **A5)** Note: Please use always the domain docufi3d.com
 
