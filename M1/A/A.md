@@ -5,7 +5,7 @@
 
   **Output 1** 
 
-  **PDF Version**  https://docufi3d.gitbook.io/docufi3d~gitbook/pdf?limit=100
+  **PDF Version**  https://docufi3d.gitbook.io/docufi3d/~gitbook/pdf?page=kzTlst3tKo255yz4YpDi&only=yes&limit=100
   
   Technical Documentation  https://docufi3d.gitbook.io/docufi3dtechnical-documentation
 
