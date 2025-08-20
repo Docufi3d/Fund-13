@@ -7,15 +7,15 @@
 
   **PDF Version**  https://docufi3d.gitbook.io/docufi3d/~gitbook/pdf?page=kzTlst3tKo255yz4YpDi&only=yes&limit=100
   
-  Technical Documentation  https://docufi3d.gitbook.io/docufi3dtechnical-documentation
+  Technical Documentation  https://docufi3d.gitbook.io/docufi3d/technical-documentation
 
-  Tech Stack  https://docufi3d.gitbook.io/docufi3ddocufi3d.com/tech-stack
+  Tech Stack  https://docufi3d.gitbook.io/docufi3d/docufi3d.com/tech-stack
    
-  Infrastructure  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/infrastructure-overview
+  Infrastructure  https://docufi3d.gitbook.io/docufi3d/technical-documentation/infrastructure-overview
 
-  Core Process  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/core-process
+  Core Process  https://docufi3d.gitbook.io/docufi3d/technical-documentation/core-process
 
-  AI Workflow  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow
+  AI Workflow  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow
 
   **Additional Videos**
  
