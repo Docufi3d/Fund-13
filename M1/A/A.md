@@ -94,7 +94,7 @@
    * *Screenshots* * https://github.com/Docufi3d/Fund-13/blob/main/M1/A/Screenshot_Analysis_2.png
   
  **Output 2: D** 
-  * *Report* *  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/ai-effectiveness-report
+  * *Report* *  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow/ai-effectiveness-report
  
 ## Output 3: Text-to-Speech (TTS):
 
