@@ -55,7 +55,7 @@
 
 ## Output 2: AI-driven Contract Analysis:
 
-  **Output 2: A**  https://docufi3d.gitbook.io/docufi3dtechnical-documentation/ai-workflow/ai-driven-contract-analysis
+  **Output 2: A**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow/ai-driven-contract-analysis
   
   **Output 2: B** Samples
   
@@ -128,7 +128,7 @@
 
 ## Output 5: Free trial access to the Milestone Reviewers for independent review
 
-   https://docufi3d.gitbook.io/docufi3ddocufi3d.com/quick-start/free-trial-access
+   https://docufi3d.gitbook.io/docufi3d/quick-start/free-trial-access
 
 **A5)** Note: Please use always the domain docufi3d.com
 
