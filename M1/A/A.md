@@ -43,7 +43,7 @@
   
   **Output 1: C**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/ai-workflow/text-to-speech
   
-  **Output 1: D**  https://docufi3d.gitbook.io/docufi3/dtechnical-documentation/pay-per-use-model
+  **Output 1: D**  https://docufi3d.gitbook.io/docufi3d/technical-documentation/pay-per-use-model
   
   **Output 1: E** https://docufi3d.gitbook.io/docufi3d
   
