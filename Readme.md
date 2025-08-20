@@ -13,7 +13,7 @@ The project was proposed and funded in **Catalyst Fund 13** under the "Cardano P
 ## 📂 Contents of This Repository
 
 - `/M1`: [Milestone 1](https://github.com/Docufi3d/Fund-13/blob/main/M1/Outputs.md)
-- `/M2`: Milestone 2 (not yet)
+- `/M2`: [Milestone 1](https://github.com/Docufi3d/Fund-13/blob/main/M2/Outputs.md) (not yet)
 - `/M3`: Milestone 3 (not yet)
 - `/M4`: Milestone 4 (not yet)
 - `/M5`: Milestone 5 (not yet)
