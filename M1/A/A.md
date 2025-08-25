@@ -119,6 +119,8 @@
    https://docufi3d.gitbook.io/docufi3d/technical-documentation/pay-per-use-model
 
   **Output 4: A,B,C,D,E,F**
+
+  * *Screenshot A4 E* *https://github.com/Docufi3d/Fund-13/blob/main/M1/A/A4.png
   
   * *Video* * https://docufi3d.com/videos/Dennis%20-%20Payment.mp4
  
