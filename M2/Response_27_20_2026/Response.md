@@ -15,7 +15,7 @@ A reviewer has confirmed: **“We successfully completed KYC and executed the QE
 
 ## Evidence overview — key new submissions
 
-- **Current production workflow, QES signing, verification and Cardano integration:** [New YouTube demonstration / co-branded video](https://www.youtube.com/watch?v=zkV8sZrzvds). This is submitted under **both Output 8 and Output 11**.
+- **Current production workflow, QES signing, verification and Cardano integration:** [New YouTube demonstration / co-branded video](https://www.youtube.com/watch?v=imFomYJnVn8). This is submitted under **both Output 8 and Output 11**.
 - **External provider onboarding/authentication:** supporting Swisscom **Nect and Mobile ID screenshots**: [IMG_9664](https://github.com/Docufi3d/Fund-13/blob/main/M2/IMG_9664.png), [IMG_9665](https://github.com/Docufi3d/Fund-13/blob/main/M2/IMG_9665.png), [IMG_9666](https://github.com/Docufi3d/Fund-13/blob/main/M2/IMG_9666.png), [IMG_9667](https://github.com/Docufi3d/Fund-13/blob/main/M2/IMG_9667.png). The screenshots supplement the current video and the reviewer's own successful KYC test; they are not claimed to be a continuous video of all Nect identity-proofing screens.
 - **Reproducible signature evidence:** [original PDF](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/TestDocument.pdf), [signed PDF](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/TestDocument_Signed.pdf), [DSS v6.5.1 validation report](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/DSS-Simple-report%20.pdf).
 - **Cardano public audit reference:** [transaction 7b0b81c8…c7e26dd81](https://cardanoscan.io/transaction/7b0b81c8469f204dd3ca3f5122c56f0b4dc02a4acd4439c1473ac08c7e26dd81).
@@ -46,7 +46,7 @@ A reviewer has confirmed: **“We successfully completed KYC and executed the QE
 
 **Implementation.** BlockSign coordinates document upload, signer invitation, legal-framework selection, entitlement checking and Swisscom-backed FES/QES execution. Payment or voucher redemption is an account entitlement, not KYC or a signature. The eIDAS and ZertES paths maintain separate corresponding evidence.
 
-**Current production demonstration:** [BlockSign / Swisscom / Cardano video](https://www.youtube.com/watch?v=zkV8sZrzvds).  
+**Current production demonstration:** [BlockSign / Swisscom / Cardano video](https://www.youtube.com/watch?v=imFomYJnVn8).  
 **Historical supporting video:** [QES + MFA biometrics](https://www.youtube.com/watch?v=c1F7T-3mYlw).
 
 **October 26, 2026 reproducible test evidence:**
@@ -67,13 +67,13 @@ The supplied **DSS v6.5.1** report records signature `SIGNATURE_DENNIS-SVEN-MITT
 
 **Evidence:** [Signed PDF](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/TestDocument_Signed.pdf), [DSS result](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/DSS-Simple-report%20.pdf), [EU DSS validation site](https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/validation), and historical supporting screenshots: [AI verification](https://github.com/Docufi3d/Fund-13/blob/main/M2/AI-Verification.png), [AES](https://github.com/Docufi3d/Fund-13/blob/main/M2/AES.png), [FES](https://github.com/Docufi3d/Fund-13/blob/main/M2/FES.png), [QES](https://github.com/Docufi3d/Fund-13/blob/main/M2/QES.png).
 
-The [current production demonstration](https://www.youtube.com/watch?v=zkV8sZrzvds) also covers document verification and the external validation result. The DSS file gives the actual test-level conclusion: **QESig / TOTAL_PASSED**.
+The [current production demonstration](https://www.youtube.com/watch?v=imFomYJnVn8) also covers document verification and the external validation result. The DSS file gives the actual test-level conclusion: **QESig / TOTAL_PASSED**.
 
 ## Output 4 — User-Friendly Access Points
 
 **Requirement:** Provide intuitive frontend access to KYC, signing and verification.
 
-**Implementation and evidence:** [BlockSign](https://blocksign.io/), [profile](https://blocksign.io/profile), [workflows](https://blocksign.io/profile#workflows), and [verification](https://blocksign.io/verification_upload). The application provides upload, invitation, signature level and legal-framework selection, profile readiness, provider onboarding, download and verification. The [new end-to-end video](https://www.youtube.com/watch?v=zkV8sZrzvds) shows the present interface; [earlier demo](https://blocksign.io/videos/Demo.mp4) documents the product's development history.
+**Implementation and evidence:** [BlockSign](https://blocksign.io/), [profile](https://blocksign.io/profile), [workflows](https://blocksign.io/profile#workflows), and [verification](https://blocksign.io/verification_upload). The application provides upload, invitation, signature level and legal-framework selection, profile readiness, provider onboarding, download and verification. The [new end-to-end video](https://www.youtube.com/watch?v=imFomYJnVn8) shows the present interface; [earlier demo](https://blocksign.io/videos/Demo.mp4) documents the product's development history.
 
 ## Output 5 — Legal and Regulatory Requirements
 
@@ -105,7 +105,7 @@ The [current production demonstration](https://www.youtube.com/watch?v=zkV8sZrzv
 
 ### Primary, current-production evidence
 
-**[New end-to-end BlockSign / Swisscom / Cardano video — YouTube](https://www.youtube.com/watch?v=zkV8sZrzvds)**
+**[New end-to-end BlockSign / Swisscom / Cardano video — YouTube](https://www.youtube.com/watch?v=imFomYJnVn8)**
 
 This video is submitted under **Output 8 as well as Output 11**. It shows the current BlockSign workflow: document upload and preparation, invitation/signing interactions, Swisscom signing authorisation, completed signing, BlockSign verification, Cardano audit-evidence reference and European Commission DSS verification. In particular, it supersedes reliance on old recordings for evidence of the **current QES signing and verification workflows**.
 
@@ -154,7 +154,7 @@ The latest reviewer correctly distinguished telemetry from qualitative user feed
 - [BlockSign X post](https://x.com/BlockSign_io/status/2041852509489152453)
 - [Docufi3d X post](https://x.com/docufi3d/status/1973396841816273282)
 - [Swisscom Trust Services LinkedIn post](https://www.linkedin.com/posts/swisscom-trust-services_digitaltrust-electronicsignature-qualifiedelectronicsignature-activity-7382314553600008193-GpWK)
-- [New co-branded public video](https://www.youtube.com/watch?v=zkV8sZrzvds)
+- [New co-branded public video](https://www.youtube.com/watch?v=imFomYJnVn8)
 
 ---
 
@@ -170,7 +170,7 @@ The latest reviewer correctly distinguished telemetry from qualitative user feed
 
 **Requirement:** A publicly accessible co-branded presentation covering the integration and Cardano's benefits, on one of the agreed publication channels, including the required participation by Swisscom.
 
-**Primary new public video (also Output 8):** [BlockSign + Cardano + Swisscom on YouTube](https://www.youtube.com/watch?v=zkV8sZrzvds).
+**Primary new public video (also Output 8):** [BlockSign + Cardano + Swisscom on YouTube](https://www.youtube.com/watch?v=imFomYJnVn8).
 
 **Public on-chain evidence:** [Cardano transaction](https://cardanoscan.io/transaction/7b0b81c8469f204dd3ca3f5122c56f0b4dc02a4acd4439c1473ac08c7e26dd81).
 
