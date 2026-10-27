@@ -129,11 +129,11 @@ The signing process includes document preparation, signer assignment, entitlemen
 
 An end-to-end demonstration was performed using the following supplied files:
 
-**Original document:** `TestDocument.pdf`
+**Original document:** [TestDocument.pdf](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/TestDocument.pdf)
 
-**Signed document:** `TestDocument_Signed.pdf`
+**Signed document:** [TestDocument_Signed.pdf](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/TestDocument_Signed.pdf)
 
-**European Commission validation report:** `DSS-Simple-report.pdf`
+**European Commission validation report:** [DSS-Simple-report.pdf](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/DSS-Simple-report%20.pdf)
 
 The document identifies the signing demonstration as:
 
