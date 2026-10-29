@@ -137,7 +137,19 @@ In the latest resolution, the reviewer explicitly offered acceptance of external
 
 ## Output 9 — Usability Study, User Feedback and Public Communications
 
-**Requirement:** A structured small-group usability study with task completion time, feedback, quotes and improvement suggestions; plus milestone-specific publications.
+### Additional Usability Study — BlockSign Post-Redesign, October 2026
+
+Following the original Docufi3d usability study conducted in July–August 2025, an additional usability evaluation was documented for the redesigned BlockSign platform.
+
+**Evidence:** [BlockSign Post-Redesign Usability Study — October 2026, 25 Tester Evaluations](https://github.com/Docufi3d/Fund-13/blob/main/M2/Response_27_20_2026/blocksign-2026-10-casestudy-25.pdf)
+
+The submitted report documents 25 completed tester profiles and seven defined tasks, including account access, document upload, signature preparation, electronic signing, QES onboarding, pay-per-use purchasing, and ADA payments.
+
+It includes recorded task durations, completion outcomes, usability ratings, participant feedback, and improvement suggestions.
+
+The 2025 Docufi3d study and the October 2026 BlockSign evaluation are presented as separate evidence packages documenting different product development stages.
+
+The detailed report contains imported individual records. Their provenance and supporting consent documentation remain subject to verification.
 
 ### Usability package
 
